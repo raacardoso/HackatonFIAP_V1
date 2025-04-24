@@ -1,0 +1,14 @@
+{
+    "classes": [
+        {
+            "title": "knife",
+            "shape": "rectangle",
+            "color": "#8A0F17",
+            "geometry_config": {},
+            "id": 6488260,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}
